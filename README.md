@@ -3,6 +3,10 @@ JavaScript beginner to pro. Udemy course
 
 ## Output
 ### innerHTML
-Set the content of the given element
+Sets the content of the given element
 ### document.write
-Set the content of the whole document
+Sets the content of the whole document
+### window.alert
+Displays a window notification with any information
+### console.log
+Write the information given to the web search engine console.
